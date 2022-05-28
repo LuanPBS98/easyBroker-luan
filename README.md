@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-<hr><h2 align="center"> <b>Link da documentação:</b> </h2><hr>
-
-<h3 align="center"><a target="_blank" >https://special-umbrella-831398a3.pages.github.io/</a></h3>
-
-
-=======
-Link para a doc: 
->>>>>>> master
+Linktree mantendo repositório original,trello,DER
+https://linktr.ee/capstone_time_6
